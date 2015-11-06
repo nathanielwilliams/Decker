@@ -1,4 +1,16 @@
-Decker is a simple app for collecting signups for the Upper Deckers softball team.
+Nothing started yet - placeholder
+
+Scope:
+Decker is a simple app for collecting signups for the Upper Deckers softball team.  It will be augmented with additional features related to team management, and providing better useeeer experience as time goes on.
+
+Project Tracking on Tiago:
+https://tree.tiago.io/project/nwilliams-the-decker/
+
+Repository on GitHub:
+https://github.com/nathanielwilliams/Decker
+
+Hosted on Heroku:
+https://upperdeckers.heroku.com
 
 Proposed Features v1:
 #1 - Manage Users (admin feature, not profiles)
@@ -11,6 +23,7 @@ Proposed Features v2:
 #1 - User Profiles
 #2 - Import Google Calendar to Generate Season
 #3 - Accept Vacation Calendars from users (Google Calendar Import)
+#4 - Google Sign-In 
 
 Proposed Features v3:
 #7 - Maps integration (show diamonds)
