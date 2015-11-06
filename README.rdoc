@@ -1,28 +1,22 @@
-== README
+Decker is a simple app for collecting signups for the Upper Deckers softball team.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Proposed Features v1:
+#1 - Manage Users (admin feature, not profiles)
+#2 - Accept Signups (no login required)
+#3 - Auto rollover to next event (site prepopulated with season data)
+#4 - Auto email notifications (new signup required, short # of players etc)
+#5 - Randomizer & Storage of history for Beer duties
 
-Things you may want to cover:
+Proposed Features v2:
+#1 - User Profiles
+#2 - Import Google Calendar to Generate Season
+#3 - Accept Vacation Calendars from users (Google Calendar Import)
 
-* Ruby version
+Proposed Features v3:
+#7 - Maps integration (show diamonds)
+#8 - Extended profiles (users can enter work & home address, and see maps to/from diamonds)
 
-* System dependencies
+Proposed Features v4:
+#1 - Stats Collection
+#2 - Stats Display
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
